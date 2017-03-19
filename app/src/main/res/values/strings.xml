@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Talk2Me</string>
+    <string name="text_response">Speak to text response</string>
+    <string name="base_url">http://dev.etunkara.info:8080</string>
+    <string name="recognizer_title">Speech recognition demo</string>
+</resources>
